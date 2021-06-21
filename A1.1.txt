@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Personal Information</h1>
+<p>Hi, my name is Grace Field. Although, as there are many “Grace Field’s” in this world – seriously, I looked it up on Facebook and stopped counting after 50 “Grace Field’s”- at RMIT I’m identified by my student number, s3915295.
+<p>If you ever need to contact me my student email is as follows:s3915295@student.rmit.edu.au</p>
+<p>I am the oldest of eight children, so it was quite interesting to see how that translated in my results of the personality tests that you will soon see.</p>
+<p>I’m mostly of a European descent (which part of Europe totally beats me), however the second most interesting thing about me – after having seven younger siblings of course – is that I’m one-quarter Indonesian. My grandfather, or Opa, came to Australia from Indonesia where he met my grandmother, or Oma.</p>
+<p>I, unfortunately, can only speak English, but I hope to learn Indonesian as it will open up communication to my great aunties, uncles and cousins that live in Indonesia.</p>
+<p>I managed to finish my year 12 VCE Certificate, and after a year doing a Bachelor of Secondary Teaching (Major in History, Minor in Math) I dropped out and began a Traineeship in Business.<br>Currently I have a Certificate III in Business and I work full time as an administrator and estimator for a plastering company.</p>
+<p>I spend a lot of my free time dancing, singing, and pretending I am on a Broadway stage playing every single cast member! I spend a lot of time listening to a musicals and trying to sing the main vocals, back up vocals, harmonies, and instruments all at the same time!</p>
+
+</body>
+</html>
