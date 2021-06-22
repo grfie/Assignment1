@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="CSS Buttons.css">
+<link rel="stylesheet" href="Font.css">
+</head>
+<body>
+
+<h1>Enneagram Test</h1>
+<p>My results came back as Type 2 “The Giver”. According to these results, I am someone who seeks to unconditionally love and support the people around me. I do believe there is a consistent pattern between the three tests I have taken. Between being an ISFJ-T in the Myers-Briggs test, and having Agreeableness as my highest percentage in the Big Five test, and now being “The Giver” in this test, I believe this shows that I care more about the people around me and making sure that they are happy and comfortable.</p>
+<p>Based off these results, in a Dungeons and Dragons campaign, I would most likely be the healer! Likewise, in a team I would be the one to emotionally support my team mates, I would make sure they are coping and handling the workload.</p>
+<p>As I’ve stated before, I need to be careful of this when working within a team, I know that I can be pretty easy to walk over because I tend to focus on being empathetic and trying to understand other people’s point of views. I would like to carry this trait when I work within a team, but also make sure that I don’t forget my own opinions and ideas.</p>
+
+<p><a href="https://www.truity.com/test-results/enneagram/17763/17427833">Enneagram Test</a></p>
+
+</body>
+</html>

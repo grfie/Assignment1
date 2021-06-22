@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="CSS Buttons.css">
+<link rel="stylesheet" href="Font.css">
+</head>
+<body>
+
+<h1>My Ideal IT Job</h1>
+<p>It was quite interesting looking into the different types of IT jobs out there. It’s incredible the complexity of IT and the importance of the people that understand it and can use it to benefit themselves and others.</p>
+<p>As I was researching some of the various types of jobs, the one that really stood out to me was a Computer Systems Analyst.</p>
+<p>As someone with more of a business background, this job seemed like the perfect mix of both business and IT knowledge. Taking challenges that a business may be facing and then designing an IT system that could provide a solution to that issue is exciting! Not only do you get to be creative in your ideas, but you also get to work closely with the business (or customer) to create something that will help them!</p>
+<p>There are a huge number of skills, qualifications and experience needed for this kind of job. The ability to have good communication with clients and team members is a beneficial skill to ensure operations run with ease. Having the knowledge of application development, understandings of various tools and technologies is impressive experience required for a role such as this.</p>
+<p>This role would require a Bachelor in Information Technology at the very least.</p>
+<p>My personal skills would be excellent for a job like this! I already work within my business to constantly work on changes required to make our operations smoother. I’m able to effectively communicate with co-workers and clients, and I enjoy working both within a team and independently.</p>
+<p>I currently only have a Certificate III in Business, and I have very little experience in IT aside from this 12 week course I’m partaking in. In order to acquire the skills needed for this job, I would complete Bachelor in IT. This would allow for me to obtain the knowledge I need for this job and help me get experience to do this. Once I am able to start working in the IT world, I will have to start small and low in rank in order to build up my knowledge and experience.</p>
+<p>Please see below a screenshot and a link to a job listing that interested me:</p>
+
+<img src="C:\Users\grace\OneDrive\Desktop\Intro to IT\Documents/Ideal Job.png" alt="Ideal Job" style="width:650px;height:400px">
+<p><a href="https://www.seek.com.au/job/52519191?type=standout#searchRequestToken=4e369e99-a371-4c86-8cf5-9ef17c4f7f45">Computer Systems Analyst</a></p>
+
+</body>
+</html>

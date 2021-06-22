@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="CSS Buttons.css">
+<link rel="stylesheet" href="Font.css">
+</head>
+<body>
+
+<h1>The Big Five Personality Test</h1>
+<p>The results of this test didn’t shock me a great deal. My highest percentage was 75% (Agreeableness). This describes my tendency to put other people’s needs ahead of my own and to cooperate rather than compete with others.</p>
+<p>This goes hand in hand with my Myers-Briggs results. I’m more willing to make sure other people are ok rather than start a conflict. This can work well within a team to ensure peace is maintained; however, it may mean that I struggle to put forward my own opinion as I would prefer everyone to be happy.</p>
+<p>The results of this test shows me that I may need to work with people who are also agreeable and who I can work with and be open with, without fear of argument or judgement. I should also ensure that I do learn to say my part when I need to, especially if it is for the benefit of the team.</p>
+
+<p><a href="https://www.truity.com/test-results/bigfive/17315/17427214">The Big Five Personality Test</a></p>
+
+</body>
+</html>

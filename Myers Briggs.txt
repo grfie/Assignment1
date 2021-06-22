@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="CSS Buttons.css">
+<link rel="stylesheet" href="Font.css">
+</head>
+<body>
+
+<h1>Myers-Briggs Test</h1>
+<p>According to this test, I am an ISFJ-T.</p>
+<p>Reading the results of this test was quite interesting. I consider this to be a relatively accurate depiction of my personality. As the oldest of eight kids, I was always their defender, and I always made sure that they were ok. I agree with the results, in that I’m naturally social but I’m actually an introvert, and that I tend to remember details about people rather than facts and figures.</p>
+<p>I believe this shows I would be the “mum” of the team, always checking in on people making sure they are ok and handling the work-load. I would also be meticulous and a bit of a perfectionist when it comes to the final product.</p>
+<p>When it comes to choosing team members, I will need to ensure that I choose people that are willing to put in and do the work with me. According to this test (and personal experience) I’m a bit of a pushover, and have a hard time saying no to a bigger workload. I will need to ensure that my team members are perfectionists like I am, and willing to do their share of the work.</p>
+<p>Please click the link below to see the results</p>
+<p><a href="https://www.16personalities.com/profiles/8382d0991728d">Myers-Briggs Test</a></p>
+
+</body>
+</html>

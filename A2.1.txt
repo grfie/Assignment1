@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="Font.css">
+</head>
+<body>
+
+<h1>Why am I interested in IT?</h1>
+<p>As someone that had very little to no idea of what IT is, aside from watching the IT Crowd of course, I shocked myself by applying for an Introduction to IT course. As a keen learner, I’m always looking for the next thing that I can learn, whether that be in my personal of professional life. As I was browsing courses on Open Universities Australia, I happened upon this Intro to IT course and it sparked a little light in my brain.
+What exactly is IT? How can I be so reliant on something I know so little about? Why does the whole business/home shut down when IT doesn’t perform properly?</p>
+<p>I often watch with baffled admiration when our IT company comes into the office to fix our various issues with technology. I get lost as they open up Notepad and enter in coding that I never thought I would understand, I watched as they remoted into my computer and withing minutes, had fixed an issue I had spent the past hour trying to fix! 
+I wanted to understand how the systems I was using on a day to day basis worked! How is it that an email can be sent to and from people across the city? How does our accounting software take the numbers I put in and somehow form a report or a graph outlining that very information?</p>
+<p>As I read through the course description for Introduction to IT at RMIT, I began to see that perhaps partaking in this course can be a step in helping me understand what IT is, and how it has become such an integral part of day to day life. I could learn how to develop a website for the business I work for, I could learn to solve basic IT issues in the work place, I could potentially create software that automated some processes in my admin or estimating job that would allow time for other work. The possibilities feel endless!</p>
+ 
+</body>
+</html>
